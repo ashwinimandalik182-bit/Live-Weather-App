@@ -32,10 +32,7 @@ pip install streamlit requests
 streamlit run app.py
 ```
 
-## 📸 Preview
-
-(Add a screenshot of your application here)
 
 ## 👨‍💻 Author
 
-Ash
+Ashwini Mandlik
